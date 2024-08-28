@@ -1,0 +1,12 @@
+{
+  "name": "vercel-util",
+  "module": "index.ts",
+  "main": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
